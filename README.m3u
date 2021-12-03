@@ -96,3 +96,36 @@ http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="TV NASIONAL",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="TV NASIONAL", JTV
+#https://fikrulmkc.my.id/bagus/usee-jtv.m3u8
+http://dituduhmaling.xyz/US33T4/jtv.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="TV NASIONAL", JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:hlscat.com
+
+ #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="TV NASIONAL",JakTV
+#https://fikrulmkc.my.id/bagus/usee-jaktv.m3u8
+http://dituduhmaling.xyz/US33T4/jaktv.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="TV NASIONAL",DAAITV
+#https://fikrulmkc.my.id/bagus/usee-daaitv.m3u8
+http://dituduhmaling.xyz/US33T4/daaitv.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="TV NASIONAL",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="TV NASIONAL",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rri-net-id.png" group-title="TV NASIONAL",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="TV NASIONAL",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" group-title="TV NASIONAL",Metro TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/bb/berita-satu-world-id.png" group-title="TV NASIONAL",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
